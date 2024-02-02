@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Verdana;
-    background-color:#000;
-    color:#fff;
+    background-color:#000000;
+    color:#ffffff;
     margin: 20px 20px 0 20px;
 }
 
@@ -25,13 +25,13 @@ img {
     width:250px;
     display:block;
     margin: 0 auto;
-    border:10px dashed #fff;
+    border:10px dashed #ffffff;
 }
 
 div {
     min-height: 125px;
     padding:20px;
-    border:3px solid #fff;
+    border:3px solid #ffffff;
 }
 
 .introduction {
@@ -72,7 +72,7 @@ div.green {
 
 footer {
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,255,1) 25%, rgba(0,102,255,1) 70%, rgba(0,0,0,1) 100%);
-    border:5px solid #fff;
+    border:5px solid #ffffff;
 }
 
 footer p {
